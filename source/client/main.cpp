@@ -1,6 +1,6 @@
-#include<iostream>
+#include "../../include/client/lyjshead.h"
 
-using namespace std;
+
 
 int main(void)
 {
